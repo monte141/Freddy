@@ -1,0 +1,28 @@
+{
+  "name": "Freddy",
+  "homepage": "https://github.com/monte141/Freddy",
+  "authors": [
+    "Miranda Montez <monte141@uw.edu>"
+  ],
+  "description": "Freddy the Pig Fan Site",
+  "main": "Index.html",
+  "keywords": [
+    "Freddy",
+    "pig",
+    "farm",
+    "Bean"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jQuery": "^3.3.1"
+  }
+}
